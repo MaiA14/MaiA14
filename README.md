@@ -7,4 +7,4 @@ I'm a software developer.
 
 Currently I work as a Back-End Developer at High Lander ✈️
 
-:email: Feel free to leave a [message](mailto:maiaa1993@gmail.com)! 
+Feel free to leave a [message](mailto:maiaa1993@gmail.com)! 
