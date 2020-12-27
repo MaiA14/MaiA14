@@ -1,4 +1,4 @@
-## You've reached Mai's Git! 
+## Hi, you've reached Mai's Git! 
 
 ![MaiA14Github](https://res.cloudinary.com/dtwqtpteb/image/upload/v1609110250/gh2ryqvdhfztuyb05ddd.png)
 
