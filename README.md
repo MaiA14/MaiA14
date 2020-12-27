@@ -1,4 +1,4 @@
-![MaiA14Github](https://res.cloudinary.com/dtwqtpteb/image/upload/v1609110151/hngfmd6gzne66qbjtcsb.png)
+![MaiA14Github](https://res.cloudinary.com/dtwqtpteb/image/upload/v1609110250/gh2ryqvdhfztuyb05ddd.png)
 
 
 ### About me
