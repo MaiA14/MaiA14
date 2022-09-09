@@ -12,8 +12,14 @@ Experienced in writing single page applications using Node.js, React, Angular 8+
 
 Currently I work as a Back-End Developer at High Lander ✈️
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiA14&hide=Tex,html,scss,css&layout=compact&hide_border=true)
+
 ## 📬 Get in touch
 
 * Feel free to leave a [message](mailto:maiaa1993@gmail.com) 
 
 * Connect with me on [Linkedin](https://www.linkedin.com/in/mai-aloni/) 
+
+
+
+
