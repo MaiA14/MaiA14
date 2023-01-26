@@ -9,9 +9,8 @@
 ## 👩 About me
 
 I'm a software developer with passion for problem solving & technology  <br>
-“If you think you can do it, you can.” ~ John Burroughs
-
-Currently I work as a Back-End Developer at High Lander ✈️
+“If you think you can do it, you can.” ~ John Burroughs <br> <br>
+Stack: Node.js + TypeScript, JavaScript, Python, Firebase, MongoDB, RESTful APIs, RabbitMQ, Kafka, GCP, Docker & more.
 
 ## 🏋️‍♀️ Skills
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MaiA14&hide=Tex,html,vba,scss,css&layout=compact&hide_border=true)
