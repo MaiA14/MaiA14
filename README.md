@@ -3,6 +3,8 @@
 
 ## Hi, you've reached Mai's Git! 
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=MaiA14.visitor-badge)
+
 ![MaiA14Github](https://res.cloudinary.com/dtwqtpteb/image/upload/v1609148522/mdckaglrj48dthwiqjmo.png)
 ## 👩 About me
 
