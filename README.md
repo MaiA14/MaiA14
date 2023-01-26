@@ -12,7 +12,7 @@ I'm a software developer with passion for problem solving & technology  <br>
 Currently I work as a Back-End Developer at High Lander ✈️
 
 ## 🏋️‍♀️ Skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiA14&hide=Tex,html,vba,scss,css&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MaiA14&hide=Tex,html,vba,scss,css&layout=compact&hide_border=true)
 
 ## 📬 Get in touch
 
